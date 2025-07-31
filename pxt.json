@@ -1,0 +1,15 @@
+{
+    "name": "env",
+    "version": "1.0.0",
+    "description": "makecode minsen-mb env Package for micro:bit",
+    "license": "none",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "env.ts"
+    ],
+    "testFiles": [
+    ],
+    "public": false
+}
